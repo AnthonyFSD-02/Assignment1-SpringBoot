@@ -16,7 +16,7 @@ To Retrieve specific employee by ID # (example id: 1): GET http://localhost:8080
 
 To Add new employee to list employees: POST http://localhost:8080/employee
 TEST EMPLOYEE FOR CONVENIENCE: 
-<!-- 
+
 {
       "id": 4,
       "fName": "Nicolas",
@@ -38,4 +38,4 @@ TEST EMPLOYEE FOR CONVENIENCE:
          }
      }
 } 
--->
+
